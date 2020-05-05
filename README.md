@@ -23,14 +23,26 @@ Frequently I will be bringing new themes.
 
 ### macOS Dark
 
-![N|Solid](./Dark-Theme.png)
+![N|Dark Preview](./Dark-Theme.png)
+
+Icons theme used on the preview:
+Mojave CT https://github.com/zayronxio/Mojave-CT
 
 ### macOS Light
 
-![N|Solid](./Light-Theme.png)
+![N|Light Preview](./Light-Theme.png)
 
 ### macOS Night Owl
 
 Based on Sarah Drasner theme for VSCode.
 
-![N|Solid](./Night-Owl-Theme.png)
+![N|Night Owl Preview](./Night-Owl-Theme.png)
+
+### Material
+
+Based on Material Design by Google
+
+Icons theme used on the preview:
+Reversal icon theme https://github.com/yeyushengfan258/Reversal-icon-theme
+
+![N|Material Preview](./Material-Theme.png)
