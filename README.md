@@ -6,13 +6,14 @@ Current themes:
 - macOS Light
 - macOS Night Owl
 - Material Design
+- MacOS 11 (Big Sur) Dark, Light
 
 Frequently I will be bringing new themes.
 
 ## Installation steps:
 
 1.  `Clone or download.`
-[Dowload Link](https://github.com/x64Bits/plank-themes/releases/download/v0.1.0/plank-themes-master.zip "Download Link")
+    [Dowload Link](https://github.com/x64Bits/plank-themes/releases/download/v0.1.0/plank-themes-master.zip "Download Link")
 
 2.  `unzip all folders.`
 
