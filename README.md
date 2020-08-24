@@ -23,10 +23,10 @@ Frequently I will be bringing new themes.
 
 ### macOS Dark
 
-![N|Dark Preview](./Dark-Theme.png)
-
 Icons theme used on the preview:
 Mojave CT https://github.com/zayronxio/Mojave-CT
+
+![N|Dark Preview](./Dark-Theme.png)
 
 ### macOS Light
 
@@ -40,9 +40,24 @@ Based on Sarah Drasner theme for VSCode.
 
 ### Material
 
-Based on Material Design by Google
-
 Icons theme used on the preview:
 Reversal icon theme https://github.com/yeyushengfan258/Reversal-icon-theme
 
+Based on Material Design by Google
+
 ![N|Material Preview](./Material-Theme.png)
+
+### Big Sur
+
+Icons theme used on the preview:
+Mkos Big Sur Night https://www.gnome-look.org/p/1400021
+
+Based on MacOS 11
+
+Light
+
+![N|Material Preview](./Big-Sur-Light.png)
+
+Dark
+
+![N|Material Preview](./Big-Sur-Dark.png)
